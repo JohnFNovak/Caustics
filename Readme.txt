@@ -1,5 +1,5 @@
 Caustics
-John F Novak- john.franc.novak@gmail.com
+John F Novak- <firstname>.franc.<lastname> <at> gmail . com
 January 12, 2012
 
 What this is:
